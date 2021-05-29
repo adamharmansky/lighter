@@ -8,3 +8,7 @@ Sort of suckless, except that it's gtk so yeah. it's just a little application I
 
  - `light` - install and reboot, this allows you to set you backlight without root privilleges
  - `gtk+3-devel` or whatever you call it on ubuntu - idk I use void :sunglasses:
+
+## How to install
+
+ `sudo make install`
