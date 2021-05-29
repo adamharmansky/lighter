@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=lighter
+Icon=brightnesssettings
+Exec=lighter
